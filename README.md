@@ -1,2 +1,2 @@
-# HealtyPlant
-个人健康平台项目：springboot + vue
+# foodPlant
+个人外卖平台项目：springboot + vue
